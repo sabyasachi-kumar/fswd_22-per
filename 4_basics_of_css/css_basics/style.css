@@ -1,0 +1,24 @@
+ p{
+    border: 2px solid yellow ;
+ }
+ .red-border
+ {
+    background-color: aquamarine;
+    border: 5px solid red;
+ }
+ #lorem-text{
+    font-weight: bold;
+ }
+ *{
+    font-style: italic;
+ }
+ h1, h2, p {
+   text-align: center;
+ }
+ body header h1{
+   background-color: rgb(17, 4, 46);
+   width: 50%;
+ }
+ header{ 
+   width: 500px;
+ }
