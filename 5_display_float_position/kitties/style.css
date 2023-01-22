@@ -1,0 +1,37 @@
+body{
+    background-color: pink;
+}
+.container{
+    width: 80%;
+    margin-inline: auto;
+    position: relative;
+}
+.kitty{
+    width: 200px;
+    float: right;
+}
+.kit_2{
+    width: 200px;
+    float: left;
+}
+.text-wrapper{
+    width: 400px;
+    height: 400px;
+    border: 2px solid rebeccapurple;
+    overflow: auto;
+    display: none;
+}
+.textbox{
+    width: 90%;
+    background-color: white;
+    border-radius: 10px;
+    padding: 80px;
+}
+#kit2{
+    width: 60px;
+    position: sticky;
+    top: 100px;
+}
+.spacer{
+    height: 200vh;
+}

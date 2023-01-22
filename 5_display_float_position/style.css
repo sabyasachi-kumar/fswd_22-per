@@ -1,0 +1,23 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+.redborder{
+    border: 5px solid red;
+}
+p{
+    width: 400px;
+    display: block;
+    margin: 40px;
+}
+.Header_text{
+    background-color:blanchedalmond  ;
+}
+a{
+    display: inline-block;
+    width: 400px;
+}
+img{
+    width: 400px;
+    display: none;
+}
